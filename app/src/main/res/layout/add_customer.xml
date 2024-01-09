@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+
+    android:padding="20dp"
+    >
+
+
+    <EditText
+        android:id="@+id/nameC"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/cadre"
+        android:layout_marginTop="25dp"
+        android:padding="15dp"
+        android:hint="Name of customer"
+        android:gravity="start|center_vertical"
+
+
+        />
+
+    <EditText
+        android:id="@+id/emailC"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/cadre"
+        android:layout_marginTop="25dp"
+        android:padding="15dp"
+        android:hint="Email of customer"
+        android:gravity="start|center_vertical"
+
+
+        />
+
+    <EditText
+        android:id="@+id/numberP"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/cadre"
+        android:layout_marginTop="25dp"
+        android:padding="15dp"
+        android:hint="phone number of customer"
+        android:gravity="start|center_vertical"
+        android:inputType="phone"
+
+        />
+
+    <EditText
+        android:id="@+id/CINC"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/cadre"
+        android:layout_marginTop="25dp"
+        android:padding="15dp"
+        android:hint="CIN of customer"
+        android:gravity="start|center_vertical"
+        android:inputType="number"
+        />
+
+    <EditText
+        android:id="@+id/adresseC"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/cadre"
+        android:layout_marginTop="25dp"
+        android:padding="15dp"
+        android:hint="address of customer"
+        android:gravity="start|center_vertical"
+
+        />
+
+    <EditText
+        android:id="@+id/matriculeC"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/cadre"
+        android:layout_marginTop="25dp"
+        android:padding="15dp"
+        android:hint="matricule of customer"
+        android:gravity="start|center_vertical"
+
+        />
+
+</LinearLayout>

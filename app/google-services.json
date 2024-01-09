@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "644354316871",
+    "firebase_url": "https://miniprojectandroid-330eb-default-rtdb.firebaseio.com",
+    "project_id": "miniprojectandroid-330eb",
+    "storage_bucket": "miniprojectandroid-330eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644354316871:android:afadae41a1f9905911ef62",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVDZpjK9t8njTtX8GsQrWTqRHKwi8KW68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
